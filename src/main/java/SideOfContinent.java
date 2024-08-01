@@ -1,0 +1,6 @@
+public enum SideOfContinent {
+    SOUTH, EAST, NORTH, WEST, NORTHWEST, NORTHEAST, SOUTHEAST, SOUTHWEST
+
+
+
+}
